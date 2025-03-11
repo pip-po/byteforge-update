@@ -14,7 +14,7 @@ export default function Home() {
       <PhotoService />
       <CompanyAbout />
       <StatTickers />
-      <WhyChooseUs />
+      {/* <WhyChooseUs /> */}
       <TestimonialCarousel />
       <CTASection />
     </main>

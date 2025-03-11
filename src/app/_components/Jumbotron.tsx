@@ -6,8 +6,8 @@ const Jumbotron = () => {
   return (
     <div className="flex flex-col items-center py-4 w-full bg-[#272727]">
       {/* Preset fixed height to prevent layout shift */}
-      <div className="min-h-[240px] md:min-h-[300px] lg:min-h-[370px] flex items-center justify-center">
-        <h1 className="text-4xl md:text-4xl lg:text-7xl font-bold max-w-7xl mx-auto text-center relative z-20 py:6 md:py-10 bg-clip-text text-[#ffffff] dark:from-neutral-800 dark:via-white dark:to-white">
+      <div className="min-h-[240px] md:min-h-[300px] lg:min-h-[340px] flex items-center justify-center">
+        <h1 className="text-4xl md:text-4xl lg:text-6xl font-bold max-w-7xl mx-auto text-center relative z-20 py:6 md:py-10 bg-clip-text text-[#ffffff] dark:from-neutral-800 dark:via-white dark:to-white">
           Empowering your businesses
           <br />
           with cutting-edge technology
