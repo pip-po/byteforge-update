@@ -5,6 +5,7 @@ import CompanyAbout from "./_components/CompanyAbout";
 import StatTickers from "./_components/StatTickers";
 import TestimonialCarousel from "./_components/TestimonialCarousel";
 import CTASection from "./_components/CTASection";
+import WhyChooseUs from "./_components/WhyChooseUs";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <PhotoService />
       <CompanyAbout />
       <StatTickers />
+      <WhyChooseUs />
       <TestimonialCarousel />
       <CTASection />
     </main>
